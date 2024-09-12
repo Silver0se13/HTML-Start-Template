@@ -3,3 +3,18 @@ body{
     color:white;
     font-family:cursive
 }
+main{
+    background-color: white;
+    color:rgb(47, 1, 47);
+    width:70%;
+    margin:0 auto;
+    /*
+    margin can take 1, 2 or 4 values.
+    2 - top/bottom left/right
+    4 -TRouBLe (Top, Right, Bottom, Left) 1px 2px 3px 4px
+    */
+}
+h1{
+    background-color: rgb(238, 176, 255);
+    color:rgb(47, 1, 47);
+}
